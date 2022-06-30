@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## HAID 2022 Interactive Textiles Workshop
 
-You can use the [editor on GitHub](https://github.com/theleadingzero/haid-interactive-textiles-workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Interactive Textiles Workshop will take place as part of [HAID 2022](https://haid2022.qmul.ac.uk/registration/) at Queen Mary University of London, UK on 24 August, 2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Haptic interactions inherently need to consider the material that comes into contact with the user. These may be stiff materials such as plastics or metals, but it may also include deformable, soft materials like textiles. The emergence of electronic textiles (e-textiles) allows for sensing and actuating to be embedded into textile forms that can be integrated in clothing or act as a ‘skin’ for robots. Textiles however are not a homogeneous category of materials. Variations in construction and material composition can result in drastically different properties. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This workshop will be a hands-on tutorial session covering the basics of textile design and e-textile sensor construction. Different kinds of conductive threads and fabrics will be presented and participants will get to make a series of e-textile sensors to take with them.
 
-```markdown
-Syntax highlighted code block
+### How to Take Part
 
-# Header 1
-## Header 2
-### Header 3
+Apply via [this form by 22 July](https://forms.microsoft.com/r/v9teE4btCp). Notification of acceptance will be sent by 29 July.
 
-- Bulleted
-- List
+All attendees will need to register for [HAID 2022](https://haid2022.qmul.ac.uk/registration/).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theleadingzero/haid-interactive-textiles-workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions, email the organisers Becky Stewart and Sophie Skach.
