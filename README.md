@@ -16,4 +16,4 @@ All attendees will need to register for [HAID 2022](https://haid2022.qmul.ac.uk/
 
 ### Contact
 
-If you have any questions, email the organisers Becky Stewart and Sophie Skach.
+If you have any questions, email the organisers Sophie Skach (s.skach@qmul.ac.uk) and Becky Stewart (r.stewart@imperial.ac.uk).
