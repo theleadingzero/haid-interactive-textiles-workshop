@@ -10,7 +10,7 @@ This workshop will be a hands-on tutorial session covering the basics of textile
 
 ### How to Take Part
 
-Apply via [this form by 22 July](https://forms.microsoft.com/r/v9teE4btCp). Notification of acceptance will be sent by 29 July.
+Apply via [this form](https://forms.microsoft.com/r/v9teE4btCp).
 
 All attendees will need to register for [HAID 2022](https://haid2022.qmul.ac.uk/registration/). There is no additional cost to attend the workshop beyond the HAID registration fee.
 
