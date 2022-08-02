@@ -1,6 +1,6 @@
 ## HAID 2022 Interactive Textiles Workshop
 
-The Interactive Textiles Workshop will take place as part of [HAID 2022](https://haid2022.qmul.ac.uk/registration/) at Queen Mary University of London, UK on 24 August, 2022.
+The Interactive Textiles Workshop will take place as part of [HAID 2022](https://haid2022.qmul.ac.uk/registration/) at Queen Mary University of London, UK from 10:00-12:00 on 25 August, 2022.
 
 ![Photo of knit textiles with conductive thread placed within it.](./img/wiring_suggestion.jpg)
 
