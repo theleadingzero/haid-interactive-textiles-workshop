@@ -10,7 +10,7 @@ This workshop will be a hands-on tutorial session covering the basics of textile
 
 ### Workshop Resources
 
-[PDF of the workshop slides](./haid-interactive-textiles-workshop/blob/main/InteractiveTextiles_presentation.pdf)
+[PDF of the workshop slides](https://github.com/theleadingzero/haid-interactive-textiles-workshop/blob/main/InteractiveTextiles_presentation.pdf)
 
 [Instructions for making a pressure sensor](https://embelashed.org/paper/sensors/pressure.html) - Instructions are for paper, but general steps can be applied to textile.
 
