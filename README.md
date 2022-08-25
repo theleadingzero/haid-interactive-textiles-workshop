@@ -8,11 +8,11 @@ Haptic interactions inherently need to consider the material that comes into con
 
 This workshop will be a hands-on tutorial session covering the basics of textile design and e-textile sensor construction. Different kinds of conductive threads and fabrics will be presented and participants will get to make a series of e-textile sensors to take with them.
 
-### How to Take Part
+### Workshop Resources
 
-Apply via [this form](https://forms.microsoft.com/r/v9teE4btCp). The form captures some background information so that we can tailor the workshop to the interests of the participants.
+[Instructions for making a pressure sensor](https://embelashed.org/paper/sensors/pressure.html) - Instructions are for paper, but general steps can be applied to textile.
 
-All attendees will need to register for [HAID 2022](https://haid2022.qmul.ac.uk/registration/). There is no additional cost to attend the workshop beyond the HAID registration fee.
+[How to Get Want You Want](https://www.kobakant.at/DIY/) - The informal wikipedia of DIY e-textiles.
 
 
 ### Contact
