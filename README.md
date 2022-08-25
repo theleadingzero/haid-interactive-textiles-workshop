@@ -14,6 +14,12 @@ This workshop will be a hands-on tutorial session covering the basics of textile
 
 [How to Get Want You Want](https://www.kobakant.at/DIY/) - The informal wikipedia of DIY e-textiles.
 
+[Data Paulette](https://datapaulette.org/) - Paris-based arts collective working with e-textiles.
+
+[PolySense](https://counterchemists.github.io/) - Polymerise (dye to make conductive) process.
+
+[Bela Blog](https://blog.bela.io/e-textiles-and-embodied-interaction-with-bela/) - e-textile projects with Bela.
+
 
 ### Contact
 
